@@ -59,6 +59,8 @@ export default function App() {
 
 ```
 
+---
+
 ```
 Home.jsx
 
@@ -76,8 +78,10 @@ export default function Home() {
 
 ```
 
+---
+
 ```
-BMICalculator,jsx
+BMICalculator.jsx
 
 import React, { useState } from "react";
 
@@ -147,9 +151,13 @@ export default function BMICalculator() {
 
 ## OUTPUT:
 
+![o1](https://github.com/user-attachments/assets/907891bb-eda6-4188-a287-40e36d0565fa)
 
+---
 
+![o2](https://github.com/user-attachments/assets/6e596fc0-3956-4465-9803-d7fc2f70e598)
 
+---
 
 ## RESULT
 The program for creating BMI Calculator using React Router is executed successfully.
